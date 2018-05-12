@@ -1,5 +1,6 @@
 # math
 2018-05-11
+
 This is a record of my math learning.
 
 ## Bilibili 3Blue1Brown
@@ -17,4 +18,4 @@ https://www.bilibili.com/video/av10308208
 与现实有关的数学，都是不确定的。
 若是确定的，都与现实无关。
 
-导数观察的是一个量的微小变化与它引起的另一个量变化间的关系。
+导数观察的是一个量的微小变化与它引起的另一个量变化间的关系。微小变化量才是导数的本质。
