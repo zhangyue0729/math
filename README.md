@@ -24,3 +24,5 @@ https://www.bilibili.com/video/av10308208
 
 2018-05-14
 完善近似解以得到精确解。
+
+积分英文表述明明是integeral  翻译锅
