@@ -13,3 +13,5 @@ consistent & complete
 modus ponens(命题演算分离规则)
 
 tautology(永真式)
+
+### proof by contradiction
