@@ -11,3 +11,5 @@ consistent & complete
 
 ### Logical Deductions
 modus ponens(命题演算分离规则)
+
+tautology(永真式)
